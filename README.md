@@ -84,8 +84,11 @@ for (Lease<InstanceInfo> each : appNameLeaseMap.values()) {
 
 ## 代码格式规约
 
+TODO
 
 ## 日志打印规约
+
+TODO
 
 ## 参考资料
 

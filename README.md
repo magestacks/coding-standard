@@ -4,6 +4,10 @@
 
 此仓库记录我在代码开发中，对自己的代码约束，仅供参考。这个仓库会一直维护，不断补充自己正在遵守以及好的代码约束。
 
+## 文档排版
+
+1）[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+
 ## 注释规范
 
 1）【强制】Class、Interface、Enum、@interface 等文件类型，类上注释仅需说明类的意图即可。
